@@ -34,7 +34,7 @@ input#submit.submit, i.fa.fa-angle-left, i.fa.fa-angle-right {
 }
 
 .author-description::before {
-	content: "About Liz";
+	content: "About Lys";
 	text-align: center;
 	float: right;
 	width: 100%;
