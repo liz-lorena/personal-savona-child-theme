@@ -1,11 +1,11 @@
 /*
 Theme Name: Savona Child Theme
-Theme URI: https://irisoflys.com/themes/savona-child
+Theme URI: https://github.com/lizberberena/personal-savona-child-theme
 Version: 1.0
 Description: A child theme of Savona
 Template: savona
-Author: Iris of Lys
-Author URI: https://irisoflys.com
+Author: Liz Lorena Berberena
+Author URI: https://lizlorena.com
 */
 @import url("../savona/style.css");
 /* Your awesome customization starts here */
@@ -34,7 +34,7 @@ input#submit.submit, i.fa.fa-angle-left, i.fa.fa-angle-right {
 }
 
 .author-description::before {
-	content: "About Lys";
+	content: "About Liz";
 	text-align: center;
 	float: right;
 	width: 100%;
